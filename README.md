@@ -2,6 +2,10 @@
 
 Playing around with audio files. Mainly [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) (Pulse Code Modulation) files, which are just raw audio bytes (samples).
 
+In my simple imagination, they are just a list of bytes, representing samples (for mono audio).
+
+![Screenshot of audio samples from Audacity](images/pcm_file_visualised.png)
+
 PCM files need metadata to be useful, i.e., Encoding (signed/unsigned, 8/16/etc bits), byte order (big/little endian), channels, sample rate (e.g., 44 kHz).
 
 ![Raw file import dialogue in Audacity](images/audacity_raw_file_import.png)
