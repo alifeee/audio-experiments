@@ -1,0 +1,2 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qalifeee screws with audio\\E$"}
+{"rule":"EN_A_VS_AN","sentence":"^\\QThe following command writes an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q file with:\\E$"}

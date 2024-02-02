@@ -1,0 +1,3 @@
+# ignore audio files and raw files
+/*.mp3
+/*.pcm
